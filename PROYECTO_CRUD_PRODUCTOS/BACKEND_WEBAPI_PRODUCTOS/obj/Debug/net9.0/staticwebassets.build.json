@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7ETVK8yDKxodzUtHPKJhlpO4XQSntcOElFNfG+4XVqk=",
+  "Source": "BACKEND_WEBAPI_PRODUCTOS",
+  "BasePath": "_content/BACKEND_WEBAPI_PRODUCTOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

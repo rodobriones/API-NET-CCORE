@@ -1,0 +1,6 @@
+@BACKEND_WEBAPI_PRODUCTOS_HostAddress = http://localhost:5247
+
+GET {{BACKEND_WEBAPI_PRODUCTOS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
